@@ -1,0 +1,28 @@
+const MyProfile = {
+    id: 1,
+    username: "matthewschmitt",
+    email: "matthewschmitt917@gmail.com",
+    name: "Matthew Schmitt",
+    slug: "Matthew Schmitt",
+    nickname: "Matt",
+    gender: "M",
+    image: '/images/davee.jpg',
+    dob: "1992.01.12",
+    website: "string",
+    contact: "string",
+    contact_email: "matthewschmitt917@gmail.com",
+    linkedin: "/",
+    github: "https://github.com/",
+    address: "Cincinnati, OH",
+    about: "I'm a full-stack & blockchain developer with 7+ years of experience building scalable, end-to-end applications using technologies like Solidity, Rust, Move, Haskell, Foundry, React, Next.js, and Node.js. I specialize in developing Smart Contracts, staking systems, trading bots, web wallets, NFT games, marketplaces, robust APIs, and secure cloud-native deployments. Leveraging deep expertise in Ethereum, Solana, Sui, Cardano, and Midnight, I develop innovative dApps that drive the evolution of the Web3 ecosystem.",
+    is_portfolio_user: "string",
+    resume_link: "/resume/cv.pdf",
+    is_active: "string",
+    is_staff: "string",
+    is_superuser: "string",
+    date_joined: "6 Jul 2024",
+    last_login: "6 Jul 2024",
+    updated_at: "6 Jul 2024",
+};
+
+export default MyProfile;

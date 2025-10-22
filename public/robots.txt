@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://daichi-saito.com/sitemap.xml
