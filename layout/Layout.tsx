@@ -3,10 +3,6 @@ import TopNavbar from "../components/TopNavbar"
 import ScrollToTopButton from "../components/ScrollToTopButton"
 import Footer from "../components/Footer"
 import QRCodeContainer from "@components/QRCodeContainer"
-import BackgroundImage from "/public/images/background-image.png"
-import BackgroundAVIF from "/public/images/background.avif"
-import DarkBackgroundImage from "/public/images/dark-background-image.png"
-import DarkBackgroundAVIF from "/public/images/dark-background.avif"
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import {
   type Container,
